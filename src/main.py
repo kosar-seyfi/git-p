@@ -10,3 +10,6 @@ print("hello world")
 print("salam")
 
 print("l")
+
+
+print("hi!")
