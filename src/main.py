@@ -1,7 +1,7 @@
 import numpy as np
 from utile import add
 
-print("hello world")
+print("hell world")
 
 def main():
     a = 10
